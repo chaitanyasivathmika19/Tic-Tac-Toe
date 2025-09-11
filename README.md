@@ -30,8 +30,6 @@ The game supports two players, tracks scores, and includes a 🌙 **dark mode to
 
 ![Tic-Tac-Toe Screenshot](https://github.com/user-attachments/assets/ad891991-19ff-4b57-86c0-b3e954e1f298)
 
-<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/ad891991-19ff-4b57-86c0-b3e954e1f298" />
-
 
 ## File Structure
 
