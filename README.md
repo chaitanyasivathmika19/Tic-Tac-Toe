@@ -19,12 +19,25 @@ A fully functional, browser-based Tic-Tac-Toe game built using **HTML**, **CSS**
 4. Use **New Game** to reset the board while keeping scores, or **Reset Game** to clear everything.  
 5. Toggle dark mode using the 🌙 button.
 
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/ad891991-19ff-4b57-86c0-b3e954e1f298" />
+
+
 ## File Structure
 
 / (root)  
 │── index.html                # Main HTML structure  
 │── style.css                 # Styling and responsive design  
 │── app.js                    # Game logic and interactivity
+
+
+## 🛠 Tech Stack
+- **HTML5** – Structure  
+- **CSS3** – Styling & Dark Mode  
+- **JavaScript (ES6)** – Game logic & interactivity  
+
+## 🚀 Live Demo
+
+Play the game here: [Tic-Tac-Toe Live](https://chaitanyasivathmika19.github.io/Tic-Tac-Toe/)  
 
 ## Customization
 
