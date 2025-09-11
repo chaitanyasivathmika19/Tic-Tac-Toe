@@ -21,11 +21,10 @@ A fully functional, browser-based Tic-Tac-Toe game built using **HTML**, **CSS**
 
 ## File Structure
 
-/tic-tac-toe/
-│── index.html # Main HTML file
-│── style.css # CSS styling
-│── app.js # JavaScript logic
-
+/ (root)  
+│── index.html                # Main HTML structure  
+│── style.css                 # Styling and responsive design  
+│── app.js                    # Game logic and interactivity
 
 ## Customization
 
