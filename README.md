@@ -38,6 +38,8 @@ The game supports two players, tracks scores, and includes a 🌙 **dark mode to
 │── style.css                 # Styling and responsive design  
 │── app.js                    # Game logic and interactivity
 
+---
+
 
 ## 🛠 Tech Stack
 - **HTML5** – Structure  
@@ -47,6 +49,8 @@ The game supports two players, tracks scores, and includes a 🌙 **dark mode to
 ## 🚀 Live Demo
 
 ▶️  Play the game here: [Tic-Tac-Toe Live](https://chaitanyasivathmika19.github.io/Tic-Tac-Toe/)  
+
+---
 
 ## Customization
 
